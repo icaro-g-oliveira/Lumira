@@ -20,3 +20,5 @@ Os níveis de estado devem ser levados em consideração na jornada da competên
 [[Produção de texto]]
 [[Literatura]]
 [[Gramática]]
+
+[[Dissertação da produção de eventos sociais por competências major das áreas]]
